@@ -10,6 +10,9 @@
  
 # Fix Windows Explorer
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+
+# Install WSL
+wsl --install
  
 # Useful apps
 choco install -y googlechrome

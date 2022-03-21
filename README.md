@@ -25,6 +25,7 @@ The included provisioning script will install the following softwares:
     - 7zip
     - Git
     - Notepad++
+    - WSL
   - Powershell Modules:
     - MSOnline
     - AzureAD
